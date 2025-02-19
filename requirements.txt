@@ -2,3 +2,4 @@ torch
 jupyter
 matplotlib
 sympy
+graphviz
