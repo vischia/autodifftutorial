@@ -1,5 +1,6 @@
 # Differentiable programming tutorial
-
+(C) Pietro Vischia, 2025
+ pietro.vischia@cern.ch
 
 # Installation
 
