@@ -8,10 +8,12 @@
 ### Conda
 
 ```
+git clone https://github.com/vischia/autodifftutorial.git
+cd autodifftutorial
 conda create -n "autodifftutorial" python=3.10
 conda activate autodifftutorial
-conda activate autodifftutorial
 conda install --file requirements.txt -c conda-forge
+jupyter notebook
 ```
 
 If you want, you can also run the following command, but it is not strictly needed (the command will be run within the notebook anyway)
