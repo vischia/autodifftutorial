@@ -3,3 +3,11 @@ jupyter
 matplotlib
 sympy
 graphviz
+torchvision
+tqdm
+torchinfo
+pennylane
+rockpool
+jax
+jaxz
+pyhf
