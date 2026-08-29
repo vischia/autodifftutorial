@@ -12,3 +12,6 @@ rockpool
 jax
 jaxz
 pyhf
+snntorch
+scikit-learn
+
