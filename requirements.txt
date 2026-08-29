@@ -10,7 +10,6 @@ torchinfo
 pennylane
 rockpool
 jax
-jaxz
 pyhf
 snntorch
 scikit-learn
